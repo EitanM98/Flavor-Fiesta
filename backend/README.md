@@ -1,6 +1,3 @@
-
-![image](https://github.com/Web-Development-Environments-2023/assignment3_3-324474857_208649913/assets/101277239/2267bb2d-116f-42d6-81cb-aa4474e82d77)
-
 **Flavor Fiesta**
 
 **Overview:**

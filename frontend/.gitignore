@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+*.pptx
+node_modules
+.env
+.vscode
+fullchain.pem
+privkey.pem
+#codes/routes/recipes.js
+#codes\routes\recipes.js
+=======
 .DS_Store
 node_modules
 # /dist
@@ -19,3 +29,4 @@ pnpm-debug.log*
 *.ntvs*
 *.njsproj
 *.sln
+>>>>>>> frontend_branch
