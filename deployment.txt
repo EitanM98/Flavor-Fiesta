@@ -1,0 +1,14 @@
+For Remote deployment: 
+  * update your server address, currently used: https://flavor-fiesta.cs.bgu.ac.il/
+  * update desired port number
+  * build Vue application : vue-cli-service build
+  * run: node /backend/server_connection.js
+
+For Local deployment: 
+  * Configure desired ports and addresses.
+  * On backend side run: node main.js
+  * On frontend side run: vue-cli-service serve
+
+Note: 
+* MySQL server should be running on the server machine.
+* .env file is used for configurations, use it to store passwords, Spoonacular API key, etc.
